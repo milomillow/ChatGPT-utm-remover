@@ -13,4 +13,4 @@ This Python script removes the `utm_source=chatgpt.com` parameter from URLs prov
 1. Clone this repository or copy the `remove_utm.py` file.
 2. Run the script with Python 3:
    ```bash
-   python3 remove_utm.py
+   python3 chatgpt.py
